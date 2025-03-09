@@ -13,7 +13,7 @@ idade= 23
 altura= 1.65
 estudante= True
 email= None
-parceiros= [ "Geovanna", "Jackson", "Yolanda", "Maria", "Ingryd"] #Lista
+parceiros= [ "Geovanna", "Jackson", "Yolanda", "Maria"] #Lista
 endereço= { "Cidade": "RJ"} #Dicionario
 
 print("Nome: ", nome)

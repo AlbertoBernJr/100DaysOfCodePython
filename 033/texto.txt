@@ -1,0 +1,3 @@
+Olá, mundo!
+Python é incrível.
+Agora estou adicionando mais texto.
